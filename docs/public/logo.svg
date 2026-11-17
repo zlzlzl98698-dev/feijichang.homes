@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="planeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1e40af" />
+    </linearGradient>
+    <linearGradient id="cloudGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#93c5fd" />
+    </linearGradient>
+  </defs>
+  <!-- Background Circle Badge -->
+  <circle cx="50" cy="50" r="46" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#2563eb" stroke-width="1.5" stroke-dasharray="4 2" opacity="0.6"/>
+  
+  <!-- Sleek Jet Taking Off -->
+  <path d="M50 18 L64 45 L88 56 L64 60 L62 82 L50 72 L38 82 L36 60 L12 56 L36 45 Z" fill="url(#planeGrad)" />
+  
+  <!-- Jet Center Cockpit Line -->
+  <path d="M50 18 L50 72" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="50" cy="28" r="3" fill="#38bdf8"/>
+</svg>

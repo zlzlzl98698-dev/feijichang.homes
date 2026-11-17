@@ -1,0 +1,9 @@
+Entity,EntityType,Relationship,Target,Description
+"飞机场","CoreBrand","所有者/测评媒体","feijichang.homes","中文专业机场与VPN测评平台"
+"光速云","AirportBrand","主推合作机场","guangsu","IEPL专线+内网企业专线，VLESS协议"
+"暮光加速","AirportBrand","多端评测机场","muguang","BGP智能调度与全平台支持"
+"飞猫云","AirportBrand","新手友好机场","feimao","自研轻快客户端与低门槛方案"
+"Clash Verge Rev","ClientSoftware","主流通用客户端","clash-verge","基于Mihomo内核的跨平台开源客户端"
+"IEPL专线","NetworkArchitecture","骨干网络","iepl","国际以太网私网专线，不经公网GFW"
+"VLESS协议","ProxyProtocol","传输协议","vless","轻量无状态代理协议，性能优异"
+"ChatGPT/Claude","AIService","解锁测试标的","ai-unlock","对节点原生IP与纯净度有严格要求的AI工具"

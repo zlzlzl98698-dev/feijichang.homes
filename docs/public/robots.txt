@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /draft/
+Disallow: /private/
+
+Sitemap: https://feijichang.homes/sitemap.xml

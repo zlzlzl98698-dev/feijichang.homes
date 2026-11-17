@@ -1,0 +1,10 @@
+SourcePage,TargetPage,AnchorText,LinkType,ContextPurpose
+"/","//airport/","机场推荐核心专区","HeaderNav","导航导流"
+"/","//vpn/","VPN与加速器专题","HeaderNav","导航导流"
+"/","//clash/","Clash客户端教程","HeaderNav","导航导流"
+"/","//resources/","资源与情报知识库","HeaderNav","导航导流"
+"/","//brands/","机场品牌数据库","FeatureButton","数据库查询"
+"/","//brands/guangsu.html","光速云深度评测与实测报告","CommercialCTA","商业主推转化"
+"/airport/","//brands/","查阅40+机场完整数据库","ContextLink","品牌筛选"
+"/clash/tutorial/","//clash/troubleshooting/","节点超时排查手册","TroubleshootLink","排障支持"
+"/resources/warning/","//airport/stable/","选购具备稳定IEPL专线的品牌","RiskMitigation","安全替代推荐"

@@ -1,0 +1,9 @@
+Question,SearchIntent,AnswerType,TargetPage
+"机场推荐中IEPL专线和普通BGP中转有什么区别？","概念对比","技术解析","/airport/stable/"
+"为什么Clash所有节点都显示Timeout超时全红？","故障排除","排障步骤","/clash/troubleshooting/"
+"光速云套餐中的99元年付和月付套餐哪个性价比更高？","商业决策","套餐拆解","/brands/guangsu.html"
+"访问ChatGPT提示Access Denied或者地区不支持怎么办？","AI解锁","解决方案","/airport/guide/"
+"免费梯子软件存在哪些潜在安全隐患？","安全警示","风险提示","/airport/free/"
+"Clash Verge Rev在哪里可以下载到官方无毒安装包？","安全下载","下载指引","/clash/download/"
+"机场跑路之前通常会有哪些反常表现？","风险预警","指标监控","/resources/warning/"
+"手机端如何导入Clash或Shadowrocket订阅？","操作教程","逐步指引","/clash/subscription/"
